@@ -1,7 +1,7 @@
 # CSEC_CPD
 ## Overview
 
-Welcome to the  CSEC_CPD repo. This repository is dedicated to enhancing your competitive programming skills through various challenges and resources.
+Welcome to the  CSEC_CPD repo. This repository is dedicated to enhancing my competitive programming skills through various challenges and resources.
 
 ## Getting Started
 
@@ -20,13 +20,11 @@ To get started with the repository, follow these steps:
 
 The repository is organized as follows:
 
-- `challenges/`: Contains various programming challenges.
 - `solutions/`: Contains solutions to the challenges.
-- `resources/`: Additional resources and references.
 
 ## Contributing
 
-We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) to get started.
+
 
 ## License
 
