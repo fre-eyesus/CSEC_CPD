@@ -1,5 +1,4 @@
-weigh = input().split(" ")
-weigh = list(map(int, weigh))
+weigh =list(map(int,input().split()))         
 limak = weigh[0]
 bob = weigh[1]
 years = 0
