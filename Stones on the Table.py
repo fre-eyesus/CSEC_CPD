@@ -1,4 +1,4 @@
-
+ 
 n = int(input())
 stones = input()
 count = 0
